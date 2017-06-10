@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CoinSum</string>
+    <string name="search_hint">Enter Coin Ticker</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="sort_ab">Sort</string>
 </resources>
